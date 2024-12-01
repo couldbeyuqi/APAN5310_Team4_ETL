@@ -49,3 +49,6 @@ cd nyc-housing-schema
 3. **Set up the database in pgAdmin**:
 
 
+## License
+- **Dataset Name:** [500,000 US Homes - Data for Sale Properties](https://www.kaggle.com/datasets/polartech/500000-us-homes-data-for-sale-properties)  
+- **License:** Please refer to the Kaggle dataset page for specific licensing terms and usage guidelines.
