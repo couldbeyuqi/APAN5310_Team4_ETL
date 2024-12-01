@@ -5,19 +5,19 @@ This project provides a well-structured database schema for managing New York Ci
 Users can set up and interact with the schema using pgAdmin or Python for seamless integration into workflows.
 
 ## Table of Contents
-Description
-Schema Design
-Installation
-Usage
-Features
-Contributing
-License
-Schema Design
+- Description
+- Schema Design
+- Installation
+- Usage
+- Features
+- Contributing
+- License
+
+##Schema Design
 The schema is structured with the following key tables:
 
-Buildings Table: Contains information about individual buildings, such as address, year built, and unit count.
-Rent Data Table: Tracks rent details by unit and neighborhood.
-Neighborhoods Table: Includes borough-specific demographic and geographic data.
+
+
 Installation
 Prerequisites
 PostgreSQL and pgAdmin installed on your system.
