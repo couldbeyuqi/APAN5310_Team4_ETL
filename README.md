@@ -1,5 +1,9 @@
 # NYC Housing Schema Design ETL
 
+# Table of Contents
+- Description
+- Schema Design
+- License
 
 
 ## Description
@@ -7,12 +11,6 @@ This project provides a well-structured database schema for managing New York Ci
 
 Users can set up and interact with the schema using pgAdmin or Python for seamless integration into workflows.
 
-
-
-## Table of Contents
-- Description
-- Schema Design
-- License
 
 
 
