@@ -13,26 +13,34 @@ Users can set up and interact with the schema using pgAdmin or Python for seamle
 - Contributing
 - License
 
-##Schema Design
+## Schema Design
 The schema is structured with the following key tables:
+- property
+- property_address
+- agency
+- agency_address
+- agent
+- agent_property
 
 
-
-Installation
-Prerequisites
+## Installation
+### Prerequisites
 PostgreSQL and pgAdmin installed on your system.
 Python (3.8 or higher) with psycopg2 library installed.
 Steps
 Clone this repository:
-
+"""
 bash
 Copy code
 git clone https://github.com/your-username/nyc-housing-schema.git
+"""
+"""
 Navigate to the project directory:
 
 bash
 Copy code
 cd nyc-housing-schema
+"""
 Set up the database in pgAdmin:
 
 Open pgAdmin and create a new database (e.g., nyc_housing).
