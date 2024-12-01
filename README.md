@@ -1,4 +1,4 @@
-# NYC Housing Schema Design
+# NYC Housing Schema Design ETL
 
 
 
@@ -12,8 +12,6 @@ Users can set up and interact with the schema using pgAdmin or Python for seamle
 ## Table of Contents
 - Description
 - Schema Design
-- Installation
-- Contributing
 - License
 
 
@@ -27,26 +25,6 @@ The schema is structured with the following key tables:
 - agent
 - agent_property
 
-
-## Installation
-
-### Prerequisites
-- PostgreSQL and pgAdmin installed on your system.
-- Python (3.8 or higher) with psycopg2 library installed.
-
-### Steps
-
-1. **Clone this repository**:
-```bash
-git clone https://github.com/your-username/nyc-housing-schema.git
-```
-
-2. **Navigate to the project directory**:
-```bash
-cd nyc-housing-schema
-```
-
-3. **Set up the database in pgAdmin**:
 
 
 ## License
