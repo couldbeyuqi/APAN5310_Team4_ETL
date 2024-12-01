@@ -1,8 +1,13 @@
 # NYC Housing Schema Design
+
+
+
 ## Description
 This project provides a well-structured database schema for managing New York City housing data. The schema can be used to analyze housing trends, manage building information, and support decision-making processes for housing-related projects.
 
 Users can set up and interact with the schema using pgAdmin or Python for seamless integration into workflows.
+
+
 
 ## Table of Contents
 - Description
@@ -12,6 +17,8 @@ Users can set up and interact with the schema using pgAdmin or Python for seamle
 - Features
 - Contributing
 - License
+
+
 
 ## Schema Design
 The schema is structured with the following key tables:
@@ -24,24 +31,26 @@ The schema is structured with the following key tables:
 
 
 ## Installation
+
 ### Prerequisites
-PostgreSQL and pgAdmin installed on your system.
-Python (3.8 or higher) with psycopg2 library installed.
-Steps
-Clone this repository:
-"""
-bash
+- PostgreSQL and pgAdmin installed on your system.
+- Python (3.8 or higher) with psycopg2 library installed.
+
+### Steps
+
+1. **Clone this repository**:
+```bash
 Copy code
 git clone https://github.com/your-username/nyc-housing-schema.git
-"""
-"""
-Navigate to the project directory:
+```
 
-bash
+2. **Navigate to the project directory**:
+```bash
 Copy code
 cd nyc-housing-schema
-"""
-Set up the database in pgAdmin:
+```
+
+3. **Set up the database in pgAdmin**:
 
 Open pgAdmin and create a new database (e.g., nyc_housing).
 Execute the provided SQL scripts in the sql/ folder using the query editor in pgAdmin:
